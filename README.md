@@ -33,6 +33,16 @@ The contract is deployed on the Polygon Scan network. The deployment details are
 ## Testing on OpenSea Testnet
 
 You can find your minted NFTs on OpenSea's testnet using the following link:
+## Links
 
-`https://testnets.opensea.io/assets/mumbai/0x0d7c8d7b3066cd59f99e8a0add41c9f38b8d3eed/2`
+* [SMART CONTRACT POLYGON](https://mumbai.polygonscan.com/address/0x0D7c8d7B3066Cd59f99E8A0aDd41C9f38b8D3eeD)
+
+
+
+* [NFT DISPLAY ON OPENSEA TESTNET](https://testnets.opensea.io/assets/mumbai/0x0d7c8d7b3066cd59f99e8a0add41c9f38b8d3eed/2)
+
+
+
+
+
 
